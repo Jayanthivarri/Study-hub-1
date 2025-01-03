@@ -1,5 +1,5 @@
 Name : Online Examination System
-Technologies : React js, Node js, Express js, Mongo Db, Redux js
+Technologies : React js, Node js, Express js, Mongo Db, Redux js,AWS and Google Cloud
 Key features:
     1. User management
     2. Modular code
